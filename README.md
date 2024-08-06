@@ -12,8 +12,7 @@ Ola, preciso que se torne um roterista profissional para um filme que vou produz
 Esse foi o primeiro prompt passado para IA, depois dei detalhes da sinopse para criação do enredo.
 ## 🚀 Resultados
 # 🤡 "O Palhaço da Kombi"
-https://github.com/Jarelvis/lab-natty-or-not/blob/main/Dark%20Mystery%20Horror%20Movie%20Poster%20.png?raw=true
-
+**[Dark Mystery Horror Movie Poster .png](https://github.com/Jarelvis/lab-natty-or-not/blob/main/Dark%20Mystery%20Horror%20Movie%20Poster%20.png?raw=true)**
 ## Ato 1: Introdução
 ### Cena 1: Bairro de Circus
 Um bairro movimentado e colorido, onde a vida cotidiana é mostrada com crianças brincando nas ruas e vendedores ambulantes. A câmera foca na kombi colorida de Jack, o palhaço vendedor de ovos.
